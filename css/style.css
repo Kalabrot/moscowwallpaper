@@ -284,7 +284,7 @@ svg:hover{
   margin-right:0;
 }
 
-section{
+.news_block,.history,.manufacture{
   width:100%;
   display:flex;
   align-items:center;
@@ -301,7 +301,7 @@ picture{
   padding-right:7.29vw;
 }
 
-h3{
+.news_title,.history_title,.manufacture_title{
   margin-top:0;
   font-size:70px;
   font-weight:500;
@@ -666,7 +666,7 @@ i:after{
 }
 
 
-h3{
+.news_title,.history_title,.manufacture_title{
   margin-bottom:15px;
   margin-top:20px;
   font-size:5.38vw;;
@@ -704,7 +704,7 @@ h3{
     width:100%
   }
   
-  h3{
+  .news_title,.history_title,.manufacture_title{
     margin-top:20px;
   }
   
