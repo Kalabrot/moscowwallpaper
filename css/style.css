@@ -253,7 +253,7 @@ main{
   min-height:960px;
 }
 
-h1{
+.promo_phrase{
   text-transform: uppercase;
   font-size:100px;
   text-align:center;
@@ -645,7 +645,7 @@ footer>i:after{
     display: none;
 }
 
-h1{
+.promo_phrase{
   margin-top:13vw;
   margin-bottom:13vw;
   font-size:6.15vw;
@@ -802,7 +802,7 @@ h3{
   
  .main-logo_block>.main-logo{
     margin-left: 20px;
-    width:100%;
+    width:240px;
     position:absolute;
     top:20px;
     left: 0;
@@ -830,7 +830,7 @@ h3{
    display:flex;
 }
   
-  h3{
+  .promo_phrase{
     font-size:11vw;
   }
   
